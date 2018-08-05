@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="activity_home_rl_root_layout" type="id" />
+    <item name="activity_home_fl_map" type="id" />
+    <item name="activity_home_rb_live" type="id" />
+    <item name="activity_home_rb_time_range" type="id" />
+    <item name="activity_home_view_pager_fragments" type="id" />
+</resources>
